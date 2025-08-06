@@ -2,7 +2,7 @@
 
 This is a **Content-Based Movie Recommendation System** built with **Streamlit**. It suggests similar movies based on the movie selected by the user, showing their posters using the TMDB API.
 
-✅ [Live Demo](https://movie-recommender-app-fbprncncuguwshfdw9jxn3.streamlit.app/)
+✅ [Live Demo]([https://movie-recommender-app-fbprncncuguwshfdw9jxn3.streamlit.app](https://movie-recommender-app-yawzdd76r54lwybv3hhjjp.streamlit.app/))
 
 ---
 
